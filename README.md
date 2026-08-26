@@ -5,8 +5,8 @@
 ---
 
 ## 🌍 Descripción del Equipo 
-Somos el **Equipo 06** del curso **Procesos de Innovación en Ingeniería**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
+Somos el **Equipo 06** del curso **Procesos de Innovación en Ingeniería**, conformado por estudiantes de la carrera de Ingeniería Biomedica.  
+Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y medico.  
 
 Nos interesa trabajar en los siguientes **----**  
 - ODS 3:  
