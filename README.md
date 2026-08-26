@@ -34,6 +34,7 @@ Nos interesa trabajar en los siguientes **----**
 | <img src="/Recursos/foto hector garay.jpeg" width="90"/> | **Hector Nicolas Garay Llerena** |  |  |
 | <img src="/Recursos/foto jorge chavez.jpeg" width="90"/> | **Jorge Abel Chávez Quispe** |  |  |
 | <img src="/Recursos/foto matias vasquez.jpeg" width="90"/> | **Matías Gabriel Vásquez Alegría** |  |  |
+| <img src="/Recursos/foto jose chenguayen.jpeg" width="90"/> | **Juan José Chenguayen García** |  |  |
 
 ---
 
