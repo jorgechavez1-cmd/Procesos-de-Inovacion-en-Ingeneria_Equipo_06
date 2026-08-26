@@ -33,7 +33,7 @@ Nos interesa trabajar en los siguientes **----**
 | <img src="/Recursos/foto ian cerna.jpeg" width="90"/> | **Ian Iosef Cerna Tenorio** |  |  |
 | <img src="/Recursos/foto hector garay.jpeg" width="90"/> | **Hector Nicolas Garay Llerena** |  |  |
 | <img src="/Recursos/foto jorge chavez.jpeg" width="90"/> | **Jorge Abel Chávez Quispe** |  |  |
-| <img src="/Recursos/foto matias vasquez.jpeg" width="90"/> | **Matías Gabriel Vásquez Alegría** |  |  |
+| <img src="/Recursos/matias vasquez.jpeg" width="90"/> | **Matías Gabriel Vásquez Alegría** |  |  |
 
 ---
 
