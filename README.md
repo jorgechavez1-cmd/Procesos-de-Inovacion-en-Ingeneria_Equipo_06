@@ -28,7 +28,7 @@ Nos interesa trabajar en los siguientes **----**
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| img src="/Recursos/foto angela flores.jpeg" width="90"/> | **Nombre 1** |  |  |
+| <img src="/Recursos/foto angela flores.jpeg" width="90"/> | **Nombre 1** |  |  |
 |  | **Nombre 2** |  |  |
 |  | **Nombre 3** |  |  |
 |  | **Nombre 4** |  |  |
