@@ -28,11 +28,12 @@ Nos interesa trabajar en los siguientes **----**
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/foto angela flores.jpeg" width="90"/> | **Nombre 1** |  |  |
-|  | **Nombre 2** |  |  |
-|  | **Nombre 3** |  |  |
-|  | **Nombre 4** |  |  |
-|  | **Nombre 5** |  |  |
+| <img src="/Recursos/foto angela flores.jpeg" width="90"/> | **Anyela Nicole Flores Suxo** |  |  |
+| <img src="/Recursos/foto sergio curo.jpeg" width="90"/> | **Sergio Nicolás Curo De los Ríos** |  |  |
+| <img src="/Recursos/foto ian cerna.jpeg" width="90"/> | **Ian Iosef Cerna Tenorio** |  |  |
+| <img src="/Recursos/foto hector garay.jpeg" width="90"/> | **Hector Nicolas Garay Llerena** |  |  |
+| <img src="/Recursos/foto jorge chavez.jpeg" width="90"/> | **Jorge Abel Chávez Quispe** |  |  |
+| <img src="/Recursos/foto matias vasquez.jpeg" width="90"/> | **Matías Gabriel Vásquez Alegría** |  |  |
 
 ---
 
