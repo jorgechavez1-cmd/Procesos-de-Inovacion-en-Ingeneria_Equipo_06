@@ -25,15 +25,15 @@ Nos interesa trabajar en los siguientes **----**
 
 ## 👥 Integrantes del Equipo  
 
-| Foto | Nombre | Rol | Intereses |
-|------|--------|-----|-----------|
-| <img src="/Recursos/foto angela flores.jpeg" width="90"/> | **Anyela Nicole Flores Suxo** |  |  |
-| <img src="/Recursos/foto sergio curo.jpeg" width="90"/> | **Sergio Nicolás Curo De los Ríos** |  |  |
-| <img src="/Recursos/foto ian cerna.jpeg" width="90"/> | **Ian Iosef Cerna Tenorio** |  |  |
-| <img src="/Recursos/foto hector garay.jpeg" width="90"/> | **Hector Nicolas Garay Llerena** |  |  |
-| <img src="/Recursos/foto jorge chavez.jpeg" width="90"/> | **Jorge Abel Chávez Quispe** |  |  |
-| <img src="/Recursos/foto matias vasquez.jpeg" width="90"/> | **Matías Gabriel Vásquez Alegría** |  |  |
-| <img src="/Recursos/foto jose chenguayen.jpeg" width="90"/> | **Juan José Chenguayen García** |  |  |
+| Foto | Nombre | Rol | Intereses | Correos |
+|------|--------|-----|-----------|---------| 
+| <img src="/Recursos/foto angela flores.jpeg" width="90"/> | **Anyela Nicole Flores Suxo** |  |  | anyela.flores@upch.pe |
+| <img src="/Recursos/foto sergio curo.jpeg" width="90"/> | **Sergio Nicolás Curo De los Ríos** |  |  | sergio.curo@upch.pe |
+| <img src="/Recursos/foto ian cerna.jpeg" width="90"/> | **Ian Iosef Cerna Tenorio** |  |  | ian.cerna@upch.pe |
+| <img src="/Recursos/foto hector garay.jpeg" width="90"/> | **Hector Nicolas Garay Llerena** |  |  | hector.garay@upch.pe |
+| <img src="/Recursos/foto jorge chavez.jpeg" width="90"/> | **Jorge Abel Chávez Quispe** |  |  | jorge.chavez.q@upch.pe |
+| <img src="/Recursos/foto matias vasquez.jpeg" width="90"/> | **Matías Gabriel Vásquez Alegría** |  |  | matias.vasquez@upch.pe |
+| <img src="/Recursos/foto jose chenguayen.jpeg" width="90"/> | **Juan José Chenguayen García** |  |  | juan.chenguayen@upch.pe |
 
 ---
 
