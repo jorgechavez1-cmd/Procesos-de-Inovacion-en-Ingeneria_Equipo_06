@@ -9,12 +9,12 @@ Somos el **Equipo 06** del curso **Procesos de Innovación en Ingeniería**, con
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y medico.  
 
 --- 
-## 📑 Tabla de contenidos
-
-- [🌍 Descripción del Equipo](#-descripción-del-equipo)
-- [📸 Fotografía del Equipo](#-fotografía-del-equipo)
-- [👥 Integrantes del Equipo](#-integrantes-del-equipo)
-- [📌 Resumen Final](#-resumen-final)
+## Tabla de contenidos
+--- 
+- [- Descripción del Equipo](#-descripción-del-equipo)
+- [- Fotografía del Equipo](#-fotografía-del-equipo)
+- [- Integrantes del Equipo](#-integrantes-del-equipo)
+- [- Resumen Final](#-resumen-final)
 
 ---
 ## 📸 Fotografía del Equipo  
