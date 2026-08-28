@@ -15,8 +15,7 @@ Nos interesa trabajar en los siguientes **----**
 - ODS 11:  
 - ODS 13:  
 
----
-## 📸 Fotografía del Equipo  
+--- 
 ## 📸 Fotografía del Equipo  
 <p align="center">
   <img src="Recursos/foto grupal.jpeg" width="1408" height="1600" alt="imagen_alumnos_IA">
