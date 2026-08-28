@@ -16,12 +16,12 @@ Nos interesa trabajar en los siguientes **----**
 - ODS 13:  
 
 ---
-
 ## 📸 Fotografía del Equipo  
-
-  <em>Figura 1. Fotografía del equipo 0X</em>
+## 📸 Fotografía del Equipo  
+<p align="center">
+  <img src="Recursos/foto grupal.jpeg" width="1408" height="768" alt="imagen_alumnos_IA">
+  <em>Figura 1. Fotografía del equipo 06</em>
 </p>
-
 ---
 
 ## 👥 Integrantes del Equipo  
