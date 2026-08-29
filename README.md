@@ -45,4 +45,4 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 ---
 
 ## 📌 Resumen Final  
-Este README resume quiénes somos, qué nos motiva y en qué queremos enfocar nuestro trabajo durante el curso.  
+Este README resume quiénes somos, qué nos motiva y en qué queremos enfocar nuestro trabajo académico durante el curso.  
