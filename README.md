@@ -8,6 +8,12 @@
 Somos el **Equipo 06** del curso **Procesos de Innovación en Ingeniería**, conformado por estudiantes de la carrera de Ingeniería Biomedica.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y medico.  
 
+- ODS 3: Salud y Bienestar  
+- ODS 6: Agua Limpia y Saneamiento  
+- ODS 9: Industria, Innovación e Infraestructura  
+- ODS 11: Ciudades y Comunidades Sostenibles  
+- ODS 13: Acción por el Clima 
+
 --- 
 ## Tabla de contenidos
 --- 
