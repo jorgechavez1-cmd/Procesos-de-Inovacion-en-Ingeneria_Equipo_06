@@ -1,4 +1,4 @@
-# Equipo 06 - Procesos de Innovación en Ingeniería
+# Equipo 06 - Procesos de Innovación en Ingeniería.
 ### Carrera de Ingeniería Biomedica
 **Universidad Peruana Cayetano Heredia**
 
